@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Playstation",
+      "price": 499.99,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": "3",
+      "name": "Caderno",
+      "price": 19.99
+    },
+    {
+      "id": "4",
+      "name": "Geladeira",
+      "price": 1599.99
+    }
+  ]
+}
