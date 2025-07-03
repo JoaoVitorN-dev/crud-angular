@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    justify-content: end;
+}
+
+.footer span{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #202020;
+}
+
+.footer a:hover{
+    color: rgb(227, 94, 107);
+}
